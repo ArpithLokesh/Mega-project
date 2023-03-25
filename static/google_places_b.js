@@ -1,0 +1,114 @@
+$.getScript("https://maps.googleapis.com/maps/api/js?key=" + google_api_key + "&libraries=places")
+    .done(function (script, textStatus) {
+        google.maps.event.addDomListener(window, "load", initAutocomplete())
+    })
+
+
+let autocomplete_b;
+
+function initAutocomplete() {
+
+    var bangaloreBounds = new google.maps.LatLngBounds(
+        new google.maps.LatLng(12.864162, 77.438610),
+        new google.maps.LatLng(13.139807, 77.711895));
+    
+    autocomplete_b = new google.maps.places.Autocomplete(
+        document.getElementById('id-google-address-b'), {
+            bounds: bangaloreBounds,
+            strictBounds: true,
+            types: ['hospital'],
+            // componentRestrictions: {
+            //     country: 'in'
+            // },
+        })
+
+    autocomplete_b.addListener('place_changed', function () {
+        onPlaceChanged('b')
+    });
+
+    getUserLocation();
+}
+
+function getUserLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(function (position) {
+            var latitude = position.coords.latitude;
+            var longitude = position.coords.longitude;
+
+            $('#id-lat-a').val(latitude);
+            $('#id-long-a').val(longitude);
+
+            console.log("Latitude: " + latitude + " Longitude: " + longitude)
+
+            CalcRoute();
+        });
+    } else {
+        alert('Geolocation is not supported by this browser.');
+    }
+}
+
+function onPlaceChanged(addy) {
+
+    let auto
+    let el_id
+    let lat_id
+    let long_id
+
+    auto = autocomplete_b
+    el_id = 'id-google-address-b'
+    lat_id = 'id-lat-b'
+    long_id = 'id-long-b'
+
+
+    var geocoder = new google.maps.Geocoder()
+    var address = document.getElementById(el_id).value
+
+    geocoder.geocode({
+        'address': address
+    }, function (results, status) {
+
+        if (status == google.maps.GeocoderStatus.OK) {
+            var latitude = results[0].geometry.location.lat();
+            var longitude = results[0].geometry.location.lng();
+
+            $('#' + lat_id).val(latitude)
+            $('#' + long_id).val(longitude)
+
+            CalcRoute()
+        }
+    });
+}
+
+
+function validateForm() {
+    var valid = true;
+    $('.geo').each(function () {
+        if ($(this).val() === '') {
+            valid = false;
+            return false;
+        }
+    });
+    return valid
+}
+
+
+function CalcRoute() {
+
+    if (validateForm() == true) {
+        var params = {
+            lat_a: $('#id-lat-a').val(),
+            long_a: $('#id-long-a').val(),
+            lat_b: $('#id-lat-b').val(),
+            long_b: $('#id-long-b').val(),
+        };
+
+        var esc = encodeURIComponent;
+        var query = Object.keys(params)
+            .map(k => esc(k) + '=' + esc(params[k]))
+            .join('&');
+
+        url = '/map?' + query
+        window.location.assign(url)
+    }
+
+}

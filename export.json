@@ -1,0 +1,6459 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.59.2 0994154d",
+  "osm3s": {
+    "timestamp_osm_base": "2023-03-22T13:49:54Z",
+    "timestamp_areas_base": "2023-03-22T10:22:23Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 17327106,
+      "lat": 12.9172053,
+      "lon": 77.5858324,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Aurobindo Circle",
+        "name:kn": "ಅರವಿಂದ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26529522,
+      "lat": 12.97471,
+      "lon": 77.6200059,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26529553,
+      "lat": 12.9815241,
+      "lon": 77.6230894,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 60952254,
+      "lat": 12.970899,
+      "lon": 77.6048004,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Prof Ashirvadam Junction",
+        "name:kn": "ಪ್ರೋ ಆಶಿರ್ವಾದಮ್ ಜಂಕ್ಷನ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 60952260,
+      "lat": 12.9661591,
+      "lon": 77.6067614,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 60952288,
+      "lat": 12.9580248,
+      "lon": 77.6059822,
+      "tags": {
+        "alt_name": "CMP Junction",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Elgin Junction",
+        "traffic_signals:sound": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 60952294,
+      "lat": 12.9598725,
+      "lon": 77.6019494,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 61746217,
+      "lat": 12.9426127,
+      "lon": 77.6226671,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 61748543,
+      "lat": 12.9684273,
+      "lon": 77.6143093,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Hosmat Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 61748553,
+      "lat": 12.952415,
+      "lon": 77.6202156,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 61748555,
+      "lat": 12.9516788,
+      "lon": 77.6214774,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 62053503,
+      "lat": 12.960517,
+      "lon": 77.5043062,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 62053645,
+      "lat": 12.960513,
+      "lon": 77.5043695,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 62067292,
+      "lat": 12.9614743,
+      "lon": 77.5840912,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 158687972,
+      "lat": 12.9540895,
+      "lon": 77.5850637,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "H Siddiah Circle",
+        "name:kn": "ಸಿದ್ದಯ್ಯ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 176470763,
+      "lat": 12.938019,
+      "lon": 77.5497906,
+      "tags": {
+        "designation": "Seetha Circle",
+        "highway": "traffic_signals",
+        "name": "Seeta Circle",
+        "name:kn": "ಸೀತಾ ವರ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 245614692,
+      "lat": 12.9483669,
+      "lon": 77.5737897,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 246171012,
+      "lat": 12.9655019,
+      "lon": 77.5867787,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 246171013,
+      "lat": 12.9635848,
+      "lon": 77.5851176,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Townhall Junction",
+        "name:kn": "ಟೌನ್‌ಹಾಲ್ ಜಂಕ್ಷನ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 246171016,
+      "lat": 12.9577464,
+      "lon": 77.5821331,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 246397923,
+      "lat": 12.9767001,
+      "lon": 77.5993307,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247852915,
+      "lat": 12.8766504,
+      "lon": 77.5951577,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Hulimavu Police Station Cross"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247972974,
+      "lat": 12.9073712,
+      "lon": 77.6005974,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247974980,
+      "lat": 12.9168184,
+      "lon": 77.6000877,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247989220,
+      "lat": 12.9164393,
+      "lon": 77.6101681,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247989224,
+      "lat": 12.9163093,
+      "lon": 77.6152047,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247991553,
+      "lat": 12.9284001,
+      "lon": 77.6005936,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247991563,
+      "lat": 12.9526686,
+      "lon": 77.6051573,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248181109,
+      "lat": 12.9399436,
+      "lon": 77.5976588,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248181114,
+      "lat": 12.9459082,
+      "lon": 77.5955345,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248455433,
+      "lat": 12.9648368,
+      "lon": 77.5967637,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Richmond Circle",
+        "name:kn": "ರಿಚ್ಮಂಡ್ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248455441,
+      "lat": 12.9621574,
+      "lon": 77.5944681,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "St. Joseph's Junction",
+        "name:kn": "ಸಂತ ಜೋಸೆಫ್ ಜಂಕ್ಷನ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248455465,
+      "lat": 12.9680076,
+      "lon": 77.6003282,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Cash Pharmacy Junction",
+        "name:kn": "ಕ್ಯಾಶ್ ಫಾರ್ಮಸಿ ಜಂಕ್ಷನ್",
+        "note": "no right turn, no left"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248455485,
+      "lat": 12.9719196,
+      "lon": 77.6070253,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Opera Circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248525401,
+      "lat": 12.9555334,
+      "lon": 77.5857316,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248525409,
+      "lat": 12.9538826,
+      "lon": 77.5913472,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248671285,
+      "lat": 12.9454561,
+      "lon": 77.5285429,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248678559,
+      "lat": 12.9253317,
+      "lon": 77.5499593,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248678594,
+      "lat": 12.9064528,
+      "lon": 77.5733483,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248678728,
+      "lat": 12.9219518,
+      "lon": 77.5602516,
+      "tags": {
+        "bicycle": "yes",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248680032,
+      "lat": 12.920881,
+      "lon": 77.5744773,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248680033,
+      "lat": 12.9210691,
+      "lon": 77.5736132,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248680036,
+      "lat": 12.9294132,
+      "lon": 77.5736689,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248761835,
+      "lat": 12.9247503,
+      "lon": 77.5181026,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248766831,
+      "lat": 12.9173126,
+      "lon": 77.5803475,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248776656,
+      "lat": 12.9367979,
+      "lon": 77.5800138,
+      "tags": {
+        "alt_name": "Thi. Nam. Shreekantaiah Circle",
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "South End Circle",
+        "name:kn": "ತಿ.ನಂ.ಶ್ರೀ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248776663,
+      "lat": 12.9368756,
+      "lon": 77.5738596,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248808777,
+      "lat": 12.9437041,
+      "lon": 77.5736802,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248808932,
+      "lat": 12.9436354,
+      "lon": 77.5678271,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248808939,
+      "lat": 12.9436584,
+      "lon": 77.5800932,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248809641,
+      "lat": 12.9368751,
+      "lon": 77.5753517,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248809814,
+      "lat": 12.9390748,
+      "lon": 77.5715572,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248838859,
+      "lat": 12.9393825,
+      "lon": 77.5666834,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248839215,
+      "lat": 12.9170012,
+      "lon": 77.5736383,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249072291,
+      "lat": 12.9240071,
+      "lon": 77.5532824,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249072292,
+      "lat": 12.9239288,
+      "lon": 77.5532539,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249074232,
+      "lat": 12.9329073,
+      "lon": 77.5839087,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249074233,
+      "lat": 12.9307204,
+      "lon": 77.583857,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249075247,
+      "lat": 12.9206044,
+      "lon": 77.5951629,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Karnataka Bank Junction",
+        "name:kn": "ಕರ್ನಾಟಕ ಬ್ಯಾಂಕ್ ಜಂಕ್ಷನ್",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249075448,
+      "lat": 12.9262958,
+      "lon": 77.586046,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249075659,
+      "lat": 12.9286765,
+      "lon": 77.5838133,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249075973,
+      "lat": 12.9170811,
+      "lon": 77.5895428,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249075974,
+      "lat": 12.9169197,
+      "lon": 77.5950065,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249076281,
+      "lat": 12.9571535,
+      "lon": 77.567368,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249076302,
+      "lat": 12.9572293,
+      "lon": 77.5696452,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249076305,
+      "lat": 12.9482718,
+      "lon": 77.5701159,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249081922,
+      "lat": 12.9905429,
+      "lon": 77.5994825,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249082012,
+      "lat": 12.989641,
+      "lon": 77.5927625,
+      "tags": {
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249082054,
+      "lat": 12.9843652,
+      "lon": 77.5971728,
+      "tags": {
+        "alt_name": "Indian Express Circle",
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Balekundri Circle",
+        "name:etymology:wikidata": "Q57292722",
+        "name:kn": "ಬಾಳೆಕುಂದ್ರಿ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249082186,
+      "lat": 12.9779668,
+      "lon": 77.6065896,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249082188,
+      "lat": 12.9754292,
+      "lon": 77.6144687,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249082234,
+      "lat": 12.98099,
+      "lon": 77.6100644,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249083107,
+      "lat": 12.9926878,
+      "lon": 77.609675,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249083111,
+      "lat": 12.9935297,
+      "lon": 77.6072669,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249083677,
+      "lat": 12.9595279,
+      "lon": 77.5558518,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249084138,
+      "lat": 12.950334,
+      "lon": 77.5376362,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249084426,
+      "lat": 12.9600479,
+      "lon": 77.5331544,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249084472,
+      "lat": 12.9660121,
+      "lon": 77.5355509,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249084476,
+      "lat": 12.9727342,
+      "lon": 77.5384781,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249084482,
+      "lat": 12.9741273,
+      "lon": 77.5447325,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249084487,
+      "lat": 12.9751768,
+      "lon": 77.5483006,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249086392,
+      "lat": 12.9612968,
+      "lon": 77.5592079,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249086438,
+      "lat": 12.9604955,
+      "lon": 77.5685092,
+      "tags": {
+        "highway": "traffic_signals",
+        "source": "Royan Circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249087719,
+      "lat": 12.9563232,
+      "lon": 77.5773125,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Basappa Circle",
+        "name:etymology:wikidata": "Q17495677",
+        "name:kn": "ಬಸಪ್ಪ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249087971,
+      "lat": 12.9730658,
+      "lon": 77.5810143,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Mysore Bank Circle",
+        "name:kn": "ಮೈಸೂರು ಬ್ಯಾಂಕ್ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249098535,
+      "lat": 12.9556477,
+      "lon": 77.5920007,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249258666,
+      "lat": 12.9483929,
+      "lon": 77.5800707,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Lalbagh West Gate",
+        "name:kn": "ಲಾಲಬಾಗ್ ಪಶ್ಚಿಮ ದ್ವಾರ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249585502,
+      "lat": 12.9610125,
+      "lon": 77.5591727,
+      "tags": {
+        "designation": "Sirsi Circle",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249589809,
+      "lat": 12.9559722,
+      "lon": 77.5463139,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249775286,
+      "lat": 12.9397776,
+      "lon": 77.573816,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249788404,
+      "lat": 12.9405702,
+      "lon": 77.5736444,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251082959,
+      "lat": 12.9816249,
+      "lon": 77.6313248,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251082964,
+      "lat": 12.9870315,
+      "lon": 77.6480759,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251105190,
+      "lat": 12.9836764,
+      "lon": 77.7523448,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251145689,
+      "lat": 12.9841437,
+      "lon": 77.6406029,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251146209,
+      "lat": 12.9666398,
+      "lon": 77.6203284,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251361750,
+      "lat": 12.9934229,
+      "lon": 77.5714497,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251361754,
+      "lat": 13.0084911,
+      "lon": 77.5711487,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253179978,
+      "lat": 12.9857908,
+      "lon": 77.644951,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253179984,
+      "lat": 12.9784796,
+      "lon": 77.6465988,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253179993,
+      "lat": 12.9688732,
+      "lon": 77.6476895,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253518979,
+      "lat": 12.9668099,
+      "lon": 77.6616619,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253521393,
+      "lat": 12.9783397,
+      "lon": 77.6409171,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253521398,
+      "lat": 12.9781886,
+      "lon": 77.636649,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 253521405,
+      "lat": 12.9784256,
+      "lon": 77.6286711,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254665635,
+      "lat": 12.9860633,
+      "lon": 77.5895016,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254665681,
+      "lat": 12.9807274,
+      "lon": 77.6028812,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254665683,
+      "lat": 12.9803976,
+      "lon": 77.6038589,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254920186,
+      "lat": 12.9342773,
+      "lon": 77.6123632,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254920223,
+      "lat": 12.934571,
+      "lon": 77.623793,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 255558038,
+      "lat": 12.9731391,
+      "lon": 77.6468992,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Thippasandra Cross",
+        "name:kn": "ತಿಪ್ಪಸಂದ್ರ ಕ್ರಾಸ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260729391,
+      "lat": 12.9372912,
+      "lon": 77.6270569,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Sony World Signal",
+        "name:kn": "ಸೋನಿ ವರ್ಲ್ಡ್ ಸಿಗ್ನಲ್",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260911861,
+      "lat": 12.9241566,
+      "lon": 77.6288579,
+      "tags": {
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 262268684,
+      "lat": 12.9209256,
+      "lon": 77.6655498,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:countdown": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263155261,
+      "lat": 12.9668233,
+      "lon": 77.6096251,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 263155937,
+      "lat": 12.9818635,
+      "lon": 77.5947704,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Police Thimmaya Circle",
+        "name:kn": "ಪೋಲಿಸ್ ತಿಮ್ಮಯ್ಯ ಸರ್ಕಲ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264191074,
+      "lat": 12.8697924,
+      "lon": 77.6533274,
+      "tags": {
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266865270,
+      "lat": 12.889084,
+      "lon": 77.6398727,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 278163345,
+      "lat": 13.0818418,
+      "lon": 77.5931178,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286679410,
+      "lat": 12.9668625,
+      "lon": 77.5875276,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286679458,
+      "lat": 12.9674709,
+      "lon": 77.5873473,
+      "tags": {
+        "camera:mount": "pole",
+        "camera:type": "dome",
+        "highway": "traffic_signals",
+        "man_made": "surveillance",
+        "surveillance": "public",
+        "surveillance:type": "camera",
+        "surveillance:zone": "area"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286679575,
+      "lat": 12.9742804,
+      "lon": 77.5746956,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286681113,
+      "lat": 12.978533,
+      "lon": 77.5426214,
+      "tags": {
+        "designation": "Jaimuni Rao Circle",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286681888,
+      "lat": 12.9808246,
+      "lon": 77.5746921,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Anand Rao Circle",
+        "name:kn": "ಆನಂದ್ ರಾವ್ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286965860,
+      "lat": 12.9778479,
+      "lon": 77.5908364,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Gopala Gowda Circle",
+        "name:kn": "ಗೋಪಾಲಗೌಡ ವೃತ್ತ",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287793997,
+      "lat": 12.963329,
+      "lon": 77.5892199,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287904671,
+      "lat": 12.9793536,
+      "lon": 77.6024084,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287905080,
+      "lat": 12.9792611,
+      "lon": 77.6070924,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Safina Plaza Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287911099,
+      "lat": 12.9716571,
+      "lon": 77.6358971,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287911537,
+      "lat": 12.9750495,
+      "lon": 77.6252964,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287912509,
+      "lat": 12.9702524,
+      "lon": 77.6413466,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294076280,
+      "lat": 12.9904714,
+      "lon": 77.5885793,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294081382,
+      "lat": 12.9827332,
+      "lon": 77.5971535,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294082867,
+      "lat": 12.9850735,
+      "lon": 77.572171,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294083347,
+      "lat": 12.9755521,
+      "lon": 77.5747201,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294083859,
+      "lat": 12.986567,
+      "lon": 77.5797359,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294083863,
+      "lat": 12.9878262,
+      "lon": 77.5742491,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294084044,
+      "lat": 12.9890267,
+      "lon": 77.5739571,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Swastik Circle",
+        "name:kn": "ಸ್ವಸ್ತಿಕ್ ಸರ್ಕಲ್",
+        "note": "Seshadri Circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295734690,
+      "lat": 13.006558,
+      "lon": 77.5787236,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Bashyam Circle",
+        "name:kn": "ಬಾಷ್ಯಂ ಸರ್ಕಲ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295735336,
+      "lat": 13.0086226,
+      "lon": 77.569094,
+      "tags": {
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295735338,
+      "lat": 13.0055677,
+      "lon": 77.5691971,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295735339,
+      "lat": 13.0036781,
+      "lon": 77.5692503,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295735342,
+      "lat": 12.9968894,
+      "lon": 77.5694028,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295735476,
+      "lat": 13.0146187,
+      "lon": 77.5728039,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295747253,
+      "lat": 13.0089419,
+      "lon": 77.5632268,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295747255,
+      "lat": 13.0056978,
+      "lon": 77.5651879,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Chitrapur Circle",
+        "name:kn": "ಚಿತ್ರಾಪುರ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296030030,
+      "lat": 13.0023852,
+      "lon": 77.6162419,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298815516,
+      "lat": 12.9633651,
+      "lon": 77.6416434,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298830710,
+      "lat": 12.9659122,
+      "lon": 77.6251001,
+      "tags": {
+        "highway": "traffic_signals",
+        "note": "ts both sides"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298830788,
+      "lat": 12.9665188,
+      "lon": 77.6203367,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298830842,
+      "lat": 12.9597396,
+      "lon": 77.6491071,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298831052,
+      "lat": 12.9552283,
+      "lon": 77.6894403,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 301350890,
+      "lat": 12.9405075,
+      "lon": 77.6202253,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 303923495,
+      "lat": 12.9844724,
+      "lon": 77.5883314,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Hotel Chalukya Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 303926963,
+      "lat": 12.9205798,
+      "lon": 77.6001864,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Gurappana Palya Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 303975904,
+      "lat": 12.9483189,
+      "lon": 77.5767783,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304277418,
+      "lat": 12.9275261,
+      "lon": 77.620841,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304771894,
+      "lat": 12.9314922,
+      "lon": 77.6226225,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 305154536,
+      "lat": 12.910223,
+      "lon": 77.5951987,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306074373,
+      "lat": 12.9608929,
+      "lon": 77.6386629,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306589874,
+      "lat": 12.934732,
+      "lon": 77.609702,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306594280,
+      "lat": 12.9172507,
+      "lon": 77.6224563,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306601726,
+      "lat": 12.9372503,
+      "lon": 77.6016151,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306601731,
+      "lat": 12.9369939,
+      "lon": 77.6018085,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306834748,
+      "lat": 12.9665236,
+      "lon": 77.6138815,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Palm Grove Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306854061,
+      "lat": 12.9139616,
+      "lon": 77.6101039,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 307404566,
+      "lat": 12.9237827,
+      "lon": 77.6398975,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308064375,
+      "lat": 12.9520418,
+      "lon": 77.4997791,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308069216,
+      "lat": 12.9808257,
+      "lon": 77.536763,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308069449,
+      "lat": 12.9994274,
+      "lon": 77.5411098,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Shankar Mutt Circle",
+        "name:kn": "ಶಂಕರ್ ಮಠ್ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308071911,
+      "lat": 13.0303853,
+      "lon": 77.5372129,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308072410,
+      "lat": 13.0258594,
+      "lon": 77.5207425,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308072451,
+      "lat": 13.0398882,
+      "lon": 77.5183596,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Jalahalli Cross",
+        "name:kn": "ಜಾಲಹಳ್ಳಿ ಕ್ರಾಸ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308072864,
+      "lat": 13.0567639,
+      "lon": 77.5467062,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Gangamma Circle",
+        "name:kn": "ಗಂಗಮ್ಮ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308074193,
+      "lat": 13.0288216,
+      "lon": 77.5400707,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308184600,
+      "lat": 12.9879829,
+      "lon": 77.5122605,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308188550,
+      "lat": 13.0059429,
+      "lon": 77.5486862,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308188640,
+      "lat": 13.0061167,
+      "lon": 77.5486474,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308230949,
+      "lat": 13.1020857,
+      "lon": 77.586365,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308231344,
+      "lat": 13.0573414,
+      "lon": 77.5932401,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308231734,
+      "lat": 13.0347668,
+      "lon": 77.5573522,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232359,
+      "lat": 13.0076666,
+      "lon": 77.5487298,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232366,
+      "lat": 13.0039099,
+      "lon": 77.5491919,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232380,
+      "lat": 12.9878683,
+      "lon": 77.5500264,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232384,
+      "lat": 12.9843395,
+      "lon": 77.5492058,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "National Public School Circle",
+        "name:kn": "ನ್ಯಾಶನಲ್ ಪಬ್ಲಿಕ್ ಶಾಲೆ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232637,
+      "lat": 12.9600349,
+      "lon": 77.532986,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232833,
+      "lat": 12.9660729,
+      "lon": 77.5353986,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232840,
+      "lat": 12.9728717,
+      "lon": 77.538421,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232847,
+      "lat": 12.9742803,
+      "lon": 77.5447396,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232862,
+      "lat": 12.984365,
+      "lon": 77.5489604,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "National Public School Circle",
+        "name:kn": "ನ್ಯಾಶನಲ್ ಪಬ್ಲಿಕ್ ಶಾಲೆ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232865,
+      "lat": 12.9879245,
+      "lon": 77.5498409,
+      "tags": {
+        "alt_name": "Dhobi Ghat Junction",
+        "alt_name_1": "Shivanagar Circle",
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Variar Bakery Circle",
+        "name:kn": "ವರಿಯರ್ ಬೇಕರಿ ಸರ್ಕಲ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232877,
+      "lat": 13.0039022,
+      "lon": 77.5490538,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232885,
+      "lat": 13.0061811,
+      "lon": 77.5488004,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232886,
+      "lat": 13.0060037,
+      "lon": 77.5488442,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308232925,
+      "lat": 13.0077186,
+      "lon": 77.5485965,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308238296,
+      "lat": 13.032017,
+      "lon": 77.6217986,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Govindapura Cross",
+        "name:kn": "ಗೋವಿಂದಪುರ ಕ್ರಾಸ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308238310,
+      "lat": 13.0403662,
+      "lon": 77.6243952,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308729150,
+      "lat": 12.9234836,
+      "lon": 77.5762524,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308729151,
+      "lat": 12.9235196,
+      "lon": 77.5735869,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308807795,
+      "lat": 12.9273139,
+      "lon": 77.5769588,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Avarekalu Circle",
+        "name:kn": "ಅವರೆಕಾಳು ವೃತ್ತ",
+        "note": "Dual carriageway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308915754,
+      "lat": 12.9242381,
+      "lon": 77.6289059,
+      "tags": {
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308923397,
+      "lat": 12.943967,
+      "lon": 77.6075944,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308923925,
+      "lat": 12.9519523,
+      "lon": 77.6051135,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308924882,
+      "lat": 12.9666654,
+      "lon": 77.6087634,
+      "tags": {
+        "alt_name": "Neelasandra Junction",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 309592695,
+      "lat": 12.9351903,
+      "lon": 77.6244413,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 309595499,
+      "lat": 12.9102099,
+      "lon": 77.5932544,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 315208341,
+      "lat": 12.9385525,
+      "lon": 77.6326278,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 315208342,
+      "lat": 12.9384563,
+      "lon": 77.6327527,
+      "tags": {
+        "designation": "Ejipur Signal",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 320647365,
+      "lat": 12.9642064,
+      "lon": 77.5768931,
+      "tags": {
+        "bus": "yes",
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals",
+        "name": "KR Market",
+        "name:en": "Krishnarajendra Market",
+        "name:kn": "ಕೃಷ್ಣರಾಜೇಂದ್ರ ಮಾರುಕಟ್ಟೆ",
+        "network": "BMTC",
+        "operator": "BMTC",
+        "public_transport": "stop_position"
+      }
+    },
+    {
+      "type": "node",
+      "id": 331665381,
+      "lat": 13.1036397,
+      "lon": 77.6002405,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Kogilu Cross",
+        "name:kn": "ಕೋಗಿಲು ಕ್ರಾಸ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332952069,
+      "lat": 13.0227488,
+      "lon": 77.6371721,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332955178,
+      "lat": 13.0818087,
+      "lon": 77.5934529,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332955188,
+      "lat": 13.057327,
+      "lon": 77.593676,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 333819141,
+      "lat": 13.0400887,
+      "lon": 77.6243136,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 334482516,
+      "lat": 12.9750569,
+      "lon": 77.6080419,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 334483116,
+      "lat": 12.9764647,
+      "lon": 77.6017528,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Anil Kumble Circle",
+        "name:kn": "ಅನಿಲ್ ಕುಂಬ್ಳೆ ವೃತ್ತ",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 334484150,
+      "lat": 12.9766446,
+      "lon": 77.6017349,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 335663834,
+      "lat": 13.0426723,
+      "lon": 77.5904119,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343088229,
+      "lat": 12.991702,
+      "lon": 77.6144879,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Shri T R A Thumba Chetty Circle",
+        "name:etymology:wikidata": "Q37999567",
+        "name:kn": "ಶ್ರೀ ಟಿ ಆರ್ ಎ ತುಂಬಚೆಟ್ಟಿ ಸರ್ಕಲ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343094471,
+      "lat": 13.0019603,
+      "lon": 77.6121285,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343316188,
+      "lat": 12.9846913,
+      "lon": 77.6424589,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343322076,
+      "lat": 13.0132924,
+      "lon": 77.6621011,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343322679,
+      "lat": 13.000165,
+      "lon": 77.6766741,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343459489,
+      "lat": 13.0051531,
+      "lon": 77.6850038,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343462692,
+      "lat": 13.0132349,
+      "lon": 77.6624303,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343594553,
+      "lat": 12.9815605,
+      "lon": 77.6054284,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 347295554,
+      "lat": 12.9747836,
+      "lon": 77.5705601,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 348036175,
+      "lat": 12.924834,
+      "lon": 77.6341552,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 353196735,
+      "lat": 13.0152516,
+      "lon": 77.6427526,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 355427675,
+      "lat": 12.9911672,
+      "lon": 77.6571505,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 355427677,
+      "lat": 12.9912508,
+      "lon": 77.6571046,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 374217275,
+      "lat": 13.0340894,
+      "lon": 77.5686021,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 374217314,
+      "lat": 13.0370077,
+      "lon": 77.5659978,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412135152,
+      "lat": 12.9954114,
+      "lon": 77.6019378,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 416419153,
+      "lat": 13.0092675,
+      "lon": 77.6433657,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419638217,
+      "lat": 13.0289671,
+      "lon": 77.5401411,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Gorguntepalaya Cross",
+        "name:kn": "ಗೊರಗುಂಟೆಪಾಳ್ಯ ಕ್ರಾಸ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419638230,
+      "lat": 13.0345938,
+      "lon": 77.5296477,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "SRS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419638282,
+      "lat": 13.0285475,
+      "lon": 77.5196997,
+      "tags": {
+        "designation": "TVS Cross",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 426823702,
+      "lat": 13.0400737,
+      "lon": 77.5184224,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Jalahalli Cross",
+        "name:kn": "ಜಾಲಹಳ್ಳಿ ಕ್ರಾಸ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 426835312,
+      "lat": 13.0187824,
+      "lon": 77.557709,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 426962459,
+      "lat": 13.0145697,
+      "lon": 77.5839359,
+      "tags": {
+        "highway": "traffic_signals",
+        "note": "Inayatulla Mekhri Circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427531037,
+      "lat": 12.9918763,
+      "lon": 77.5753646,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427593076,
+      "lat": 13.0036753,
+      "lon": 77.5700123,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427593098,
+      "lat": 13.0057303,
+      "lon": 77.5637704,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427593100,
+      "lat": 13.0036936,
+      "lon": 77.5653044,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427593103,
+      "lat": 13.0056474,
+      "lon": 77.5667264,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427593300,
+      "lat": 13.0036878,
+      "lon": 77.5667685,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427593301,
+      "lat": 13.0056026,
+      "lon": 77.5681526,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427593305,
+      "lat": 13.0055029,
+      "lon": 77.5712021,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427593398,
+      "lat": 13.0036822,
+      "lon": 77.5681969,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 427594202,
+      "lat": 13.0185093,
+      "lon": 77.5577739,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 428457171,
+      "lat": 12.9538503,
+      "lon": 77.5914331,
+      "tags": {
+        "highway": "traffic_signals",
+        "note": "no u turn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 428457173,
+      "lat": 12.9555387,
+      "lon": 77.5922036,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 428853824,
+      "lat": 12.9806396,
+      "lon": 77.5768467,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 428853846,
+      "lat": 12.9743317,
+      "lon": 77.5782468,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429001262,
+      "lat": 12.9638857,
+      "lon": 77.5851183,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429001265,
+      "lat": 12.9656016,
+      "lon": 77.586664,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429286843,
+      "lat": 12.9750183,
+      "lon": 77.548459,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429303163,
+      "lat": 12.9765722,
+      "lon": 77.5992296,
+      "tags": {
+        "highway": "traffic_signals",
+        "note": "No right turn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429731194,
+      "lat": 12.9531892,
+      "lon": 77.5735941,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430043662,
+      "lat": 13.010025,
+      "lon": 77.5906561,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430043746,
+      "lat": 13.0249766,
+      "lon": 77.5929367,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430127696,
+      "lat": 13.0430588,
+      "lon": 77.5902694,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 431524344,
+      "lat": 12.9817204,
+      "lon": 77.6284718,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 431530258,
+      "lat": 13.0356131,
+      "lon": 77.5536152,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 432501724,
+      "lat": 12.9840305,
+      "lon": 77.6406293,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 432501735,
+      "lat": 12.9869013,
+      "lon": 77.6480216,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 442107189,
+      "lat": 13.0050449,
+      "lon": 77.6850796,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 443224605,
+      "lat": 12.9352411,
+      "lon": 77.6243708,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 446782731,
+      "lat": 13.0190315,
+      "lon": 77.5397565,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 446860580,
+      "lat": 12.9878857,
+      "lon": 77.5374979,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Havanur Circle",
+        "name:kn": "ಹಾವನೂರು ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 446860594,
+      "lat": 12.9875494,
+      "lon": 77.5542881,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 446860595,
+      "lat": 12.9899503,
+      "lon": 77.5544114,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 446860599,
+      "lat": 12.9977445,
+      "lon": 77.5510789,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 446860602,
+      "lat": 13.0044215,
+      "lon": 77.5537312,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 447072640,
+      "lat": 12.9974152,
+      "lon": 77.5463789,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 447113035,
+      "lat": 12.9688067,
+      "lon": 77.5367664,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 447113036,
+      "lat": 12.9688782,
+      "lon": 77.536568,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448116638,
+      "lat": 12.9901102,
+      "lon": 77.5507315,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448116639,
+      "lat": 12.9901389,
+      "lon": 77.5505292,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 450684664,
+      "lat": 12.8905409,
+      "lon": 77.5980634,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 481750173,
+      "lat": 12.9899972,
+      "lon": 77.6547867,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 481754476,
+      "lat": 12.9773603,
+      "lon": 77.6088189,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 483412094,
+      "lat": 13.0250957,
+      "lon": 77.5111135,
+      "tags": {
+        "designation": "NTTF Junction",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 483412558,
+      "lat": 13.0164967,
+      "lon": 77.5056432,
+      "tags": {
+        "designation": "14th Cross Peenya 2nd Stage",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 491848091,
+      "lat": 12.973184,
+      "lon": 77.6223158,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Cambridge Layout Road Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 493493706,
+      "lat": 12.9481639,
+      "lon": 77.5737923,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 493556454,
+      "lat": 12.9168952,
+      "lon": 77.5857901,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Aurobindo Circle",
+        "name:kn": "ಅರವಿಂದ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 493556455,
+      "lat": 12.9171057,
+      "lon": 77.5803888,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494076705,
+      "lat": 12.9166521,
+      "lon": 77.6000922,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494076711,
+      "lat": 12.9167923,
+      "lon": 77.5951084,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494238030,
+      "lat": 12.9166571,
+      "lon": 77.5998266,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494238031,
+      "lat": 12.9168243,
+      "lon": 77.5998376,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494238032,
+      "lat": 12.9205791,
+      "lon": 77.6001168,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Gurappana Palya Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494238035,
+      "lat": 12.9284068,
+      "lon": 77.6005138,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494238044,
+      "lat": 12.9073426,
+      "lon": 77.6005239,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494271080,
+      "lat": 12.9173081,
+      "lon": 77.6231104,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494271099,
+      "lat": 12.9164648,
+      "lon": 77.6152205,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494271106,
+      "lat": 12.9211388,
+      "lon": 77.6204844,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 503050615,
+      "lat": 12.9274298,
+      "lon": 77.6210612,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 514452399,
+      "lat": 12.9452203,
+      "lon": 77.5282437,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 514455514,
+      "lat": 12.9384485,
+      "lon": 77.533467,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 570758310,
+      "lat": 12.9642875,
+      "lon": 77.5699161,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Briand Square"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571440547,
+      "lat": 13.045425,
+      "lon": 77.5073762,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 574367083,
+      "lat": 13.0734378,
+      "lon": 77.5928441,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610334163,
+      "lat": 13.0304256,
+      "lon": 77.5371277,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610334165,
+      "lat": 13.0305242,
+      "lon": 77.5372081,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618251411,
+      "lat": 12.8891559,
+      "lon": 77.6400041,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618252032,
+      "lat": 12.9070535,
+      "lon": 77.6287986,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 650141249,
+      "lat": 12.9164877,
+      "lon": 77.6323261,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 650141554,
+      "lat": 12.9165803,
+      "lon": 77.6322725,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663311700,
+      "lat": 12.9757148,
+      "lon": 77.5871764,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663313887,
+      "lat": 12.9675102,
+      "lon": 77.5887571,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663596564,
+      "lat": 12.9791889,
+      "lon": 77.6023825,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663596568,
+      "lat": 12.9808948,
+      "lon": 77.5973998,
+      "tags": {
+        "highway": "traffic_signals",
+        "image": "https://commons.wikimedia.org/wiki/File:Minsk_Square,_Cubbon_Road,_Vasanth_Nagar,_Bengaluru.jpg",
+        "junction": "yes",
+        "name": "Minsk Square",
+        "note": "No u turn",
+        "wikidata": "Q111462406",
+        "wikimedia_commons": "File:Minsk Square, Cubbon Road, Vasanth Nagar, Bengaluru.jpg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663596616,
+      "lat": 12.9770855,
+      "lon": 77.6088242,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Kamaraja Road Circle",
+        "name:etymology:wikidata": "Q522048"
+      }
+    },
+    {
+      "type": "node",
+      "id": 695118045,
+      "lat": 12.8699127,
+      "lon": 77.6534266,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "traffic_signals:sound": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699559635,
+      "lat": 12.9286315,
+      "lon": 77.5860426,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699576768,
+      "lat": 12.9168951,
+      "lon": 77.573499,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699576776,
+      "lat": 12.9065633,
+      "lon": 77.573184,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699576791,
+      "lat": 12.9175324,
+      "lon": 77.5736007,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699576794,
+      "lat": 12.9178186,
+      "lon": 77.5734427,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699576806,
+      "lat": 12.9065281,
+      "lon": 77.5733344,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699585158,
+      "lat": 12.9072684,
+      "lon": 77.6005727,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699585966,
+      "lat": 12.9218389,
+      "lon": 77.5602313,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699684137,
+      "lat": 12.950425,
+      "lon": 77.5375279,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699684258,
+      "lat": 12.925416,
+      "lon": 77.5500127,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699684299,
+      "lat": 12.9383665,
+      "lon": 77.5333896,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699686049,
+      "lat": 12.9596075,
+      "lon": 77.555756,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699704182,
+      "lat": 12.9363084,
+      "lon": 77.5182437,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699704288,
+      "lat": 12.9127028,
+      "lon": 77.4852565,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 701736119,
+      "lat": 13.0400432,
+      "lon": 77.5184589,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Jalahalli Cross",
+        "name:kn": "ಜಾಲಹಳ್ಳಿ ಕ್ರಾಸ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 736014437,
+      "lat": 12.9702001,
+      "lon": 77.6411924,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Sony Centre Signal",
+        "name:kn": "ಸೋನಿ ಸೆಂಟರ್ ಸಿಗ್ನಲ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 736207271,
+      "lat": 12.9839912,
+      "lon": 77.6405267,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 736207419,
+      "lat": 12.9783368,
+      "lon": 77.6408171,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 858946512,
+      "lat": 13.0347707,
+      "lon": 77.5297388,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "SRS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 954175916,
+      "lat": 12.9921587,
+      "lon": 77.7157694,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 955696314,
+      "lat": 12.9881621,
+      "lon": 77.7316636,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 959499255,
+      "lat": 13.1021131,
+      "lon": 77.5864908,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054687502,
+      "lat": 12.9608329,
+      "lon": 77.5127024,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Nagarabhavi Circle",
+        "name:kn": "ನಗರಭಾವಿ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1054687612,
+      "lat": 12.9580537,
+      "lon": 77.5187559,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070314221,
+      "lat": 12.9064407,
+      "lon": 77.5857639,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070314229,
+      "lat": 12.9062409,
+      "lon": 77.5857595,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070361701,
+      "lat": 12.9345224,
+      "lon": 77.6123292,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070361732,
+      "lat": 12.9316887,
+      "lon": 77.6137504,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070361772,
+      "lat": 12.9247423,
+      "lon": 77.6181789,
+      "tags": {
+        "highway": "traffic_signals",
+        "source": "AND"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070361799,
+      "lat": 12.9246425,
+      "lon": 77.6183237,
+      "tags": {
+        "highway": "traffic_signals",
+        "source": "AND"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1104241030,
+      "lat": 12.9838842,
+      "lon": 77.7525161,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1104243944,
+      "lat": 12.9838487,
+      "lon": 77.7523021,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1109138335,
+      "lat": 12.9976149,
+      "lon": 77.5504485,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1109138343,
+      "lat": 12.9975682,
+      "lon": 77.5501611,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1111583828,
+      "lat": 12.9843942,
+      "lon": 77.5541649,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Bashyam Circle",
+        "name:kn": "ಬಾಷ್ಯಂ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1142146879,
+      "lat": 12.9068489,
+      "lon": 77.5210807,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1145362952,
+      "lat": 12.9070942,
+      "lon": 77.4991442,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1148895344,
+      "lat": 12.9169363,
+      "lon": 77.5895475,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1212302913,
+      "lat": 12.9781904,
+      "lon": 77.6367335,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1213632636,
+      "lat": 12.9825502,
+      "lon": 77.634728,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1232686162,
+      "lat": 12.9766524,
+      "lon": 77.5991902,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Mahatma Gandhi Circle",
+        "name:etymology:wikidata": "Q1001",
+        "name:kn": "ಮಹಾತ್ಮ ಗಾಂಧಿ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1259491784,
+      "lat": 12.9722678,
+      "lon": 77.7117064,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1282881326,
+      "lat": 12.9716854,
+      "lon": 77.635962,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1285913198,
+      "lat": 12.9873948,
+      "lon": 77.5192651,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Sumanahalli Junction",
+        "name:kn": "ಸುಮನಹಳ್ಳಿ ಜಂಕ್ಷನ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1290058655,
+      "lat": 12.9886116,
+      "lon": 77.6173088,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1290058657,
+      "lat": 12.9954834,
+      "lon": 77.6019453,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1344698572,
+      "lat": 12.8905219,
+      "lon": 77.598149,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1368829017,
+      "lat": 12.983732,
+      "lon": 77.75262,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1404460897,
+      "lat": 12.9782919,
+      "lon": 77.6366672,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1404460899,
+      "lat": 12.9782913,
+      "lon": 77.6367522,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1404460918,
+      "lat": 12.9784329,
+      "lon": 77.6408142,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1404460921,
+      "lat": 12.9784358,
+      "lon": 77.6409138,
+      "tags": {
+        "alt_name": "Indiranagar KFC Junction",
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "B. M. Shri Circle",
+        "name:kn": "ಬಿ. ಎಂ. ಶ್ರೀ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1420105790,
+      "lat": 12.9660019,
+      "lon": 77.6253419,
+      "tags": {
+        "highway": "traffic_signals",
+        "note": "ts both sides"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1442364461,
+      "lat": 12.9554114,
+      "lon": 77.6893304,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1447805104,
+      "lat": 12.9981561,
+      "lon": 77.5529918,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Navarang Junction",
+        "name:kn": "ನವರಂಗ್ ಜಂಕ್ಷನ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1464138167,
+      "lat": 12.9598438,
+      "lon": 77.6490249,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1465590369,
+      "lat": 12.9927933,
+      "lon": 77.6097181,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1466495041,
+      "lat": 12.9351768,
+      "lon": 77.5607659,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Vidyapita Circle",
+        "name:kn": "ವಿದ್ಯಾಪೀಠ ವೃತ್ತ",
+        "note": "no right turn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1472878937,
+      "lat": 12.9157732,
+      "lon": 77.6381828,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1473972578,
+      "lat": 12.9476894,
+      "lon": 77.5679808,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1487973952,
+      "lat": 12.9356158,
+      "lon": 77.5130713,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1522519270,
+      "lat": 12.9406325,
+      "lon": 77.5734629,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1523569756,
+      "lat": 12.9767631,
+      "lon": 77.7272471,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1526635282,
+      "lat": 13.008674,
+      "lon": 77.5416966,
+      "tags": {
+        "barrier": "block",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1557291145,
+      "lat": 12.9671397,
+      "lon": 77.6112318,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1559350748,
+      "lat": 12.9573442,
+      "lon": 77.5735805,
+      "tags": {
+        "crossing": "traffic_signals",
+        "designation": "Professor P Shivashankar Circle",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1585678352,
+      "lat": 12.9762804,
+      "lon": 77.727095,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1586950862,
+      "lat": 12.9886729,
+      "lon": 77.6172469,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1589590957,
+      "lat": 12.9935962,
+      "lon": 77.607355,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1608973481,
+      "lat": 12.9237686,
+      "lon": 77.6401349,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1609661649,
+      "lat": 12.9238842,
+      "lon": 77.6400267,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1613152619,
+      "lat": 12.9071733,
+      "lon": 77.6289631,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1613154921,
+      "lat": 12.8943146,
+      "lon": 77.6366429,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1613154922,
+      "lat": 12.8943956,
+      "lon": 77.6367854,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1620344798,
+      "lat": 12.9315406,
+      "lon": 77.622498,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1625402539,
+      "lat": 12.9345169,
+      "lon": 77.6238935,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1636820422,
+      "lat": 12.9798845,
+      "lon": 77.5711378,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1636820456,
+      "lat": 12.9802065,
+      "lon": 77.5710655,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1636820490,
+      "lat": 12.9798304,
+      "lon": 77.5710036,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1653906418,
+      "lat": 12.9161262,
+      "lon": 77.6382588,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1653906444,
+      "lat": 12.9159661,
+      "lon": 77.638189,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668866516,
+      "lat": 12.9638866,
+      "lon": 77.5767121,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1675239400,
+      "lat": 12.9373571,
+      "lon": 77.6268796,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Sony World Signal",
+        "name:kn": "ಸೋನಿ ವರ್ಲ್ಡ್ ಸಿಗ್ನಲ್",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1698055285,
+      "lat": 12.972707,
+      "lon": 77.6202938,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1698055324,
+      "lat": 12.9725327,
+      "lon": 77.6194555,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Trinity Circle",
+        "name:kn": "ಟ್ರಿನಿಟಿ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1698120515,
+      "lat": 12.9728156,
+      "lon": 77.6033511,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1719191867,
+      "lat": 12.9872826,
+      "lon": 77.5195788,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1726152644,
+      "lat": 12.9778078,
+      "lon": 77.5906484,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Gopala Gowda Junction",
+        "name:kn": "ಗೋಪಾಲಗೌಡ ವೃತ್ತ",
+        "note": "junction but not a motorway junction.",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1759977210,
+      "lat": 12.9246162,
+      "lon": 77.6282981,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1775972263,
+      "lat": 12.9206954,
+      "lon": 77.6651928,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Iblur Junction",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1780288371,
+      "lat": 12.954345,
+      "lon": 77.5441623,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1794666983,
+      "lat": 13.0258816,
+      "lon": 77.5208012,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1820387917,
+      "lat": 12.9820371,
+      "lon": 77.5661038,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Okalipuram Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1820423092,
+      "lat": 12.9759177,
+      "lon": 77.5645244,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1820431143,
+      "lat": 12.9739005,
+      "lon": 77.5496116,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1820431145,
+      "lat": 12.975095,
+      "lon": 77.5482417,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1827247442,
+      "lat": 12.9204596,
+      "lon": 77.6652807,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1827480124,
+      "lat": 12.9021347,
+      "lon": 77.6011014,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1835344749,
+      "lat": 12.9128513,
+      "lon": 77.4851915,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1836940343,
+      "lat": 12.9605367,
+      "lon": 77.5716748,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837297484,
+      "lat": 13.008328,
+      "lon": 77.6958894,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837297537,
+      "lat": 13.0171364,
+      "lon": 77.7044631,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837297545,
+      "lat": 13.0193822,
+      "lon": 77.7085208,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837378093,
+      "lat": 12.9306069,
+      "lon": 77.5472159,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837378508,
+      "lat": 12.9749419,
+      "lon": 77.5483987,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837445421,
+      "lat": 12.9752507,
+      "lon": 77.6081103,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837445448,
+      "lat": 12.9770841,
+      "lon": 77.6085876,
+      "tags": {
+        "highway": "traffic_signals",
+        "note": "No right turn, no u turn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837445449,
+      "lat": 12.9773184,
+      "lon": 77.6086084,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837445468,
+      "lat": 12.9808785,
+      "lon": 77.6100039,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837595259,
+      "lat": 12.9779381,
+      "lon": 77.6066792,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837634274,
+      "lat": 12.9885956,
+      "lon": 77.6171653,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837716605,
+      "lat": 12.9531783,
+      "lon": 77.5737727,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837783512,
+      "lat": 12.9752167,
+      "lon": 77.6142643,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837783514,
+      "lat": 12.9754396,
+      "lon": 77.614291,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837783520,
+      "lat": 12.9763007,
+      "lon": 77.6147696,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837823400,
+      "lat": 13.0010386,
+      "lon": 77.6118464,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1843612311,
+      "lat": 12.9957725,
+      "lon": 77.6167124,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1843612325,
+      "lat": 12.9957321,
+      "lon": 77.6167743,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1843612344,
+      "lat": 12.995698,
+      "lon": 77.6167171,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1866199092,
+      "lat": 12.9062462,
+      "lon": 77.591948,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1908194764,
+      "lat": 12.9601559,
+      "lon": 77.601565,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1925410536,
+      "lat": 12.9610187,
+      "lon": 77.5882677,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1931983764,
+      "lat": 12.9437046,
+      "lon": 77.5739072,
+      "tags": {
+        "crossing": "uncontrolled",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1989699952,
+      "lat": 12.9933538,
+      "lon": 77.585232,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1989699958,
+      "lat": 12.9932672,
+      "lon": 77.5850753,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "circular"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2123555481,
+      "lat": 12.9294934,
+      "lon": 77.615518,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "St. Johns Junction",
+        "name:kn": "ಸಂತ ಜಾನ್ಸ್ ಜಂಕ್ಷನ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2125916087,
+      "lat": 13.0394858,
+      "lon": 77.6415575,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2177268730,
+      "lat": 12.9399597,
+      "lon": 77.5977193,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2177302402,
+      "lat": 12.9488195,
+      "lon": 77.5934082,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2221301505,
+      "lat": 12.957379,
+      "lon": 77.5521321,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2268179269,
+      "lat": 12.9662025,
+      "lon": 77.6250271,
+      "tags": {
+        "highway": "traffic_signals",
+        "note": "ts both sides"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2268430874,
+      "lat": 12.9848148,
+      "lon": 77.6424652,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2382016055,
+      "lat": 12.9831489,
+      "lon": 77.5956336,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2382044454,
+      "lat": 12.9819166,
+      "lon": 77.5946118,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2386067856,
+      "lat": 12.9833326,
+      "lon": 77.5959928,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2387127870,
+      "lat": 12.9240974,
+      "lon": 77.6517527,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2387385680,
+      "lat": 12.9246483,
+      "lon": 77.6499056,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2446005983,
+      "lat": 13.0435554,
+      "lon": 77.5613062,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2446005990,
+      "lat": 13.0438749,
+      "lon": 77.5611942,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2450313548,
+      "lat": 13.0734662,
+      "lon": 77.5924966,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2451340470,
+      "lat": 13.1036907,
+      "lon": 77.6002596,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Kogilu Cross",
+        "name:kn": "ಕೋಗಿಲು ಕ್ರಾಸ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2460236929,
+      "lat": 13.0675398,
+      "lon": 77.6337595,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2472174945,
+      "lat": 12.944023,
+      "lon": 77.6076644,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2473230014,
+      "lat": 13.0091599,
+      "lon": 77.6433951,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2473599949,
+      "lat": 12.9294419,
+      "lon": 77.6151278,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2485941514,
+      "lat": 13.0220539,
+      "lon": 77.5325479,
+      "tags": {
+        "alt_name": "Kanteerava Studio Junction",
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Netaji Subhash Chandra Bose Junction",
+        "name:kn": "ನೇತಾಜಿ ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್ ಜಂಕ್ಷನ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2513553543,
+      "lat": 12.9062949,
+      "lon": 77.5950772,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Delmia Circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2572573442,
+      "lat": 13.0435078,
+      "lon": 77.5611426,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2578344267,
+      "lat": 13.0436809,
+      "lon": 77.5568978,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2578344269,
+      "lat": 13.0440077,
+      "lon": 77.5568836,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2694634184,
+      "lat": 12.973804,
+      "lon": 77.6137151,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2694706126,
+      "lat": 12.9726656,
+      "lon": 77.6195655,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2694706128,
+      "lat": 12.9737785,
+      "lon": 77.6139056,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2703669937,
+      "lat": 13.0140818,
+      "lon": 77.5654923,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2723746984,
+      "lat": 12.9488567,
+      "lon": 77.5934802,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2723747019,
+      "lat": 12.9487239,
+      "lon": 77.5934087,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2890442001,
+      "lat": 12.9644301,
+      "lon": 77.6066914,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2971089260,
+      "lat": 12.9174509,
+      "lon": 77.6227954,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2999494951,
+      "lat": 12.9716577,
+      "lon": 77.6195948,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3170033041,
+      "lat": 12.9784665,
+      "lon": 77.6287149,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3268824710,
+      "lat": 12.9650689,
+      "lon": 77.6099455,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3304182895,
+      "lat": 12.9816452,
+      "lon": 77.6229302,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals",
+        "note": "No right turn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3304182912,
+      "lat": 12.9817896,
+      "lon": 77.6284605,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3305876069,
+      "lat": 12.9765115,
+      "lon": 77.6019797,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3305876073,
+      "lat": 12.9791731,
+      "lon": 77.6025848,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3343499300,
+      "lat": 12.9715095,
+      "lon": 77.6194944,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3352035441,
+      "lat": 12.9828842,
+      "lon": 77.6374693,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3356003439,
+      "lat": 12.9481673,
+      "lon": 77.5736593,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3356003440,
+      "lat": 12.9483693,
+      "lon": 77.5736617,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3370456514,
+      "lat": 12.9688766,
+      "lon": 77.6477648,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3370456522,
+      "lat": 12.9786655,
+      "lon": 77.6466411,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3370456523,
+      "lat": 12.9786284,
+      "lon": 77.6465264,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3370456536,
+      "lat": 12.9857537,
+      "lon": 77.645175,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3416946211,
+      "lat": 12.9104707,
+      "lon": 77.5856751,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3549420612,
+      "lat": 12.9869148,
+      "lon": 77.5886667,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3676157412,
+      "lat": 12.9758342,
+      "lon": 77.5874614,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3676182371,
+      "lat": 13.0099778,
+      "lon": 77.5905733,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3676182395,
+      "lat": 13.014499,
+      "lon": 77.5839483,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3677662643,
+      "lat": 12.9634306,
+      "lon": 77.6415188,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3702258264,
+      "lat": 12.9074562,
+      "lon": 77.6005582,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "JD Mara Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3730964461,
+      "lat": 12.9750022,
+      "lon": 77.6253525,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3740957817,
+      "lat": 12.9424666,
+      "lon": 77.6227201,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3740957818,
+      "lat": 12.9425118,
+      "lon": 77.6226168,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3740962156,
+      "lat": 12.9524384,
+      "lon": 77.6201616,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3751677693,
+      "lat": 12.9861568,
+      "lon": 77.5897154,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3756218759,
+      "lat": 12.9819703,
+      "lon": 77.5660186,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780895950,
+      "lat": 12.9594408,
+      "lon": 77.6542883,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3780895951,
+      "lat": 12.9593599,
+      "lon": 77.6542721,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801688125,
+      "lat": 12.9344221,
+      "lon": 77.6295732,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801688126,
+      "lat": 12.934482,
+      "lon": 77.6296475,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801692788,
+      "lat": 12.9371289,
+      "lon": 77.6269449,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801692790,
+      "lat": 12.9372333,
+      "lon": 77.6268138,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Sony World Signal",
+        "name:kn": "ಸೋನಿ ವರ್ಲ್ಡ್ ಸಿಗ್ನಲ್",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3803149238,
+      "lat": 12.9614722,
+      "lon": 77.6358769,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Sri Attimaramma Circle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3805003789,
+      "lat": 12.9169946,
+      "lon": 77.6227852,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3806218133,
+      "lat": 12.9609991,
+      "lon": 77.6386768,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3833983041,
+      "lat": 13.0451995,
+      "lon": 77.5072992,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3919859765,
+      "lat": 12.9968152,
+      "lon": 77.5694071,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3919859801,
+      "lat": 12.9982646,
+      "lon": 77.5529583,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Navarang Junction",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3919864562,
+      "lat": 12.9974821,
+      "lon": 77.5463798,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3919864571,
+      "lat": 12.9976645,
+      "lon": 77.5501385,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3919864572,
+      "lat": 12.9977077,
+      "lon": 77.5504286,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3919864573,
+      "lat": 12.9978455,
+      "lon": 77.5510633,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3980460302,
+      "lat": 12.9747465,
+      "lon": 77.6200089,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3982070777,
+      "lat": 12.9879463,
+      "lon": 77.5124094,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4030004341,
+      "lat": 12.9937776,
+      "lon": 77.5955797,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4044110261,
+      "lat": 12.965037,
+      "lon": 77.6099001,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4044110267,
+      "lat": 12.965347,
+      "lon": 77.617707,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Lower Agaram Junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4044263595,
+      "lat": 12.9743035,
+      "lon": 77.611217,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4044263598,
+      "lat": 12.9744622,
+      "lon": 77.6110359,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4044288574,
+      "lat": 12.9885236,
+      "lon": 77.6172253,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058219850,
+      "lat": 12.9934298,
+      "lon": 77.5958068,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058219851,
+      "lat": 12.9934688,
+      "lon": 77.5958557,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058219852,
+      "lat": 12.9934802,
+      "lon": 77.5956667,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058219853,
+      "lat": 12.9935317,
+      "lon": 77.5955905,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058219855,
+      "lat": 12.9936347,
+      "lon": 77.5958034,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058224563,
+      "lat": 12.9868342,
+      "lon": 77.5887242,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058224827,
+      "lat": 12.9720606,
+      "lon": 77.5937964,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058224836,
+      "lat": 12.9721111,
+      "lon": 77.5940909,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058224852,
+      "lat": 12.9722435,
+      "lon": 77.594085,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4058230900,
+      "lat": 12.9723093,
+      "lon": 77.5938981,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4161839913,
+      "lat": 12.9275288,
+      "lon": 77.6211218,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4161839915,
+      "lat": 12.9276223,
+      "lon": 77.620874,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4294218112,
+      "lat": 12.9644251,
+      "lon": 77.6067543,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4315639158,
+      "lat": 12.9699507,
+      "lon": 77.636018,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4318640432,
+      "lat": 12.9751847,
+      "lon": 77.6079654,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4406882464,
+      "lat": 12.9167634,
+      "lon": 77.6101325,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4490333425,
+      "lat": 12.9297383,
+      "lon": 77.6330681,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4614143317,
+      "lat": 12.9064726,
+      "lon": 77.5731965,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4692270064,
+      "lat": 12.9166474,
+      "lon": 77.6099929,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4692270065,
+      "lat": 12.91641,
+      "lon": 77.6100478,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4692270067,
+      "lat": 12.9139613,
+      "lon": 77.6100343,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4692323186,
+      "lat": 12.9878985,
+      "lon": 77.5122417,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4692323187,
+      "lat": 12.9878589,
+      "lon": 77.5123748,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4692331556,
+      "lat": 12.9872873,
+      "lon": 77.5192328,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Sumanahalli Junction",
+        "name:kn": "ಸುಮನಹಳ್ಳಿ ಜಂಕ್ಷನ್"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4696742622,
+      "lat": 12.9784722,
+      "lon": 77.5426127,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Jaimuni Rao Circle",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4701357989,
+      "lat": 12.9177484,
+      "lon": 77.5735837,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703140386,
+      "lat": 12.9210144,
+      "lon": 77.6202471,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703697693,
+      "lat": 12.9758564,
+      "lon": 77.5644266,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703697696,
+      "lat": 12.9759701,
+      "lon": 77.5644373,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4703745962,
+      "lat": 12.9667767,
+      "lon": 77.6615725,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4792982257,
+      "lat": 12.9520348,
+      "lon": 77.4996995,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4798470947,
+      "lat": 12.9608858,
+      "lon": 77.5126467,
+      "tags": {
+        "highway": "traffic_signals",
+        "junction": "yes",
+        "name": "Nagarabhavi Circle",
+        "name:kn": "ನಗರಭಾವಿ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4798470955,
+      "lat": 12.9604572,
+      "lon": 77.5042836,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4798470956,
+      "lat": 12.9604312,
+      "lon": 77.5043336,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4824686444,
+      "lat": 12.955345,
+      "lon": 77.6896091,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4829061645,
+      "lat": 12.9366875,
+      "lon": 77.5800099,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4829061649,
+      "lat": 12.9366836,
+      "lon": 77.5801308,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4829061654,
+      "lat": 12.93679,
+      "lon": 77.5753572,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4829124435,
+      "lat": 12.9172443,
+      "lon": 77.580125,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4829124438,
+      "lat": 12.9367925,
+      "lon": 77.5801198,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4830093913,
+      "lat": 12.93915,
+      "lon": 77.57151,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4845178133,
+      "lat": 12.9440884,
+      "lon": 77.6076264,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4867634836,
+      "lat": 12.9235182,
+      "lon": 77.573669,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4867634840,
+      "lat": 12.9210452,
+      "lon": 77.5737106,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4867659906,
+      "lat": 12.92093,
+      "lon": 77.5736964,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4867659907,
+      "lat": 12.9209548,
+      "lon": 77.5735948,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4867659916,
+      "lat": 12.9235953,
+      "lon": 77.5736705,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4867659917,
+      "lat": 12.9235979,
+      "lon": 77.5735914,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4903183638,
+      "lat": 12.9673519,
+      "lon": 77.6112766,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4912560032,
+      "lat": 13.0044313,
+      "lon": 77.5538596,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5012476625,
+      "lat": 13.0003056,
+      "lon": 77.6810613,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5346843765,
+      "lat": 12.9283253,
+      "lon": 77.6005108,
+      "tags": {
+        "crossing": "traffic_signals",
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5346843788,
+      "lat": 12.9170827,
+      "lon": 77.589466,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5354313538,
+      "lat": 12.9105207,
+      "lon": 77.5856749,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5354313539,
+      "lat": 12.9104693,
+      "lon": 77.5857267,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5354313540,
+      "lat": 12.9105193,
+      "lon": 77.5857264,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5354313548,
+      "lat": 12.9101641,
+      "lon": 77.5932548,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5354313587,
+      "lat": 12.910223,
+      "lon": 77.5951588,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5354313589,
+      "lat": 12.9102634,
+      "lon": 77.5951992,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5354313590,
+      "lat": 12.9102635,
+      "lon": 77.5951591,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372295313,
+      "lat": 12.9843867,
+      "lon": 77.5823378,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5389437924,
+      "lat": 12.9299336,
+      "lon": 77.6331643,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5392852814,
+      "lat": 13.0369592,
+      "lon": 77.5659323,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5762040043,
+      "lat": 13.0004609,
+      "lon": 77.6811182,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5778431791,
+      "lat": 12.9244353,
+      "lon": 77.650361,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5942550424,
+      "lat": 12.9248705,
+      "lon": 77.633534,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "junction",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5942550425,
+      "lat": 12.9249468,
+      "lon": 77.6336469,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "junction",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5966255495,
+      "lat": 13.0676062,
+      "lon": 77.6335728,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6131746732,
+      "lat": 13.1035085,
+      "lon": 77.6006196,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Kogilu Cross"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6144112170,
+      "lat": 12.9355069,
+      "lon": 77.512996,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6341774847,
+      "lat": 12.9760743,
+      "lon": 77.6202316,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6341774848,
+      "lat": 12.9762364,
+      "lon": 77.620311,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6341774849,
+      "lat": 12.9756446,
+      "lon": 77.620225,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6390283420,
+      "lat": 12.9528208,
+      "lon": 77.6052683,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6421171389,
+      "lat": 12.9662538,
+      "lon": 77.6068662,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6460998310,
+      "lat": 12.9636179,
+      "lon": 77.5849046,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6478194285,
+      "lat": 13.0438449,
+      "lon": 77.5610561,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6901551440,
+      "lat": 12.9829518,
+      "lon": 77.6374076,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6932109140,
+      "lat": 12.936333,
+      "lon": 77.5184277,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7023995541,
+      "lat": 13.0431413,
+      "lon": 77.6209093,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Nagawara",
+        "name:kn": "ನಾಗವಾರ",
+        "traffic_signals": "pedestrian_crossing",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7100647715,
+      "lat": 12.9064398,
+      "lon": 77.5856795,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7100647721,
+      "lat": 12.9062433,
+      "lon": 77.5856773,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7172895621,
+      "lat": 13.0396046,
+      "lon": 77.6414895,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7172895628,
+      "lat": 13.0395366,
+      "lon": 77.6413177,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7265495336,
+      "lat": 12.9298394,
+      "lon": 77.6329605,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287467677,
+      "lat": 12.9235533,
+      "lon": 77.5763207,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287518210,
+      "lat": 12.9262935,
+      "lon": 77.585962,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287518216,
+      "lat": 12.9171607,
+      "lon": 77.5857586,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Aurobindo Circle",
+        "name:kn": "ಅರವಿಂದ ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287518217,
+      "lat": 12.9286284,
+      "lon": 77.5859254,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287518218,
+      "lat": 12.9170256,
+      "lon": 77.5858842,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287571768,
+      "lat": 12.916942,
+      "lon": 77.5950729,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287571770,
+      "lat": 12.9167705,
+      "lon": 77.595038,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287984425,
+      "lat": 12.9308255,
+      "lon": 77.576133,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287984426,
+      "lat": 12.9308462,
+      "lon": 77.5762087,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287984441,
+      "lat": 12.9309086,
+      "lon": 77.5761017,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7287984479,
+      "lat": 12.9208956,
+      "lon": 77.5743871,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7290434473,
+      "lat": 12.9169366,
+      "lon": 77.5894673,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7686283259,
+      "lat": 12.9736472,
+      "lon": 77.6139195,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9499810282,
+      "lat": 12.8764678,
+      "lon": 77.5952647,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Hulimavu Police Station Cross"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9499810283,
+      "lat": 12.8764473,
+      "lon": 77.595053,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Hulimavu Police Station Cross"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9603588754,
+      "lat": 12.9879125,
+      "lon": 77.5373852,
+      "tags": {
+        "highway": "traffic_signals",
+        "name": "Havanur Circle",
+        "name:kn": "ಹಾವನೂರು ವೃತ್ತ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9629025771,
+      "lat": 12.9795266,
+      "lon": 77.5818251,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9843291185,
+      "lat": 12.9557714,
+      "lon": 77.7149514,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9844475372,
+      "lat": 12.9393876,
+      "lon": 77.695406,
+      "tags": {
+        "button_operated": "no",
+        "highway": "traffic_signals",
+        "red_turn:right:bicycle": "no",
+        "red_turn:straight:bicycle": "no",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9844475373,
+      "lat": 12.9394618,
+      "lon": 77.6949651,
+      "tags": {
+        "button_operated": "no",
+        "highway": "traffic_signals",
+        "red_turn:right:bicycle": "no",
+        "red_turn:straight:bicycle": "no",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9857144282,
+      "lat": 12.9242269,
+      "lon": 77.6518529,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9857144283,
+      "lat": 12.924313,
+      "lon": 77.6516792,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9932318844,
+      "lat": 12.9725049,
+      "lon": 77.711724,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9951192668,
+      "lat": 12.9723896,
+      "lon": 77.7115703,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9952942386,
+      "lat": 12.9640173,
+      "lon": 77.5854918,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:sound": "walk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9953892391,
+      "lat": 12.9560228,
+      "lon": 77.7146667,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9953892394,
+      "lat": 12.9561499,
+      "lon": 77.7149147,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9953892395,
+      "lat": 12.9556991,
+      "lon": 77.7147719,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9984551452,
+      "lat": 12.9741926,
+      "lon": 77.6110601,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10015684285,
+      "lat": 12.9798232,
+      "lon": 77.5711021,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "forward"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10016346057,
+      "lat": 12.9767581,
+      "lon": 77.6019096,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10043357419,
+      "lat": 12.9299865,
+      "lon": 77.6148743,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10043357421,
+      "lat": 12.9526806,
+      "lon": 77.6050853,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10043357423,
+      "lat": 12.9663404,
+      "lon": 77.6068004,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10068662144,
+      "lat": 12.9384242,
+      "lon": 77.6327323,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10068662145,
+      "lat": 12.9386584,
+      "lon": 77.6326055,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10072942642,
+      "lat": 12.9140056,
+      "lon": 77.6100352,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10072942645,
+      "lat": 12.9140121,
+      "lon": 77.6101028,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10120941856,
+      "lat": 12.9681417,
+      "lon": 77.60619,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10121050218,
+      "lat": 12.9832681,
+      "lon": 77.5956182,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10121158786,
+      "lat": 12.9805134,
+      "lon": 77.577043,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10121158788,
+      "lat": 12.9804668,
+      "lon": 77.5769601,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10123663919,
+      "lat": 12.9809189,
+      "lon": 77.6100053,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10123663920,
+      "lat": 12.9809149,
+      "lon": 77.6102419,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10123826914,
+      "lat": 12.9776001,
+      "lon": 77.590887,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10231033892,
+      "lat": 12.9743993,
+      "lon": 77.5783115,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10282769898,
+      "lat": 12.9213128,
+      "lon": 77.6202306,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10284348022,
+      "lat": 12.9298101,
+      "lon": 77.633236,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10284348038,
+      "lat": 12.9440386,
+      "lon": 77.607531,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10289145756,
+      "lat": 12.9558228,
+      "lon": 77.5921964,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10291078965,
+      "lat": 12.9855192,
+      "lon": 77.6450999,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10585575510,
+      "lat": 13.0393961,
+      "lon": 77.6413853,
+      "tags": {
+        "highway": "traffic_signals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10678693502,
+      "lat": 12.9924741,
+      "lon": 77.7162864,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10695052518,
+      "lat": 12.976576,
+      "lon": 77.7269713,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10731023449,
+      "lat": 12.9764721,
+      "lon": 77.7273767,
+      "tags": {
+        "highway": "traffic_signals",
+        "traffic_signals": "signal",
+        "traffic_signals:direction": "backward"
+      }
+    }
+  ]
+}
