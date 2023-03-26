@@ -12,3 +12,7 @@ folium
 geopandas
 matplotlib
 psycopg2-binary
+pika
+GDAL==3.4.0
+geos==3.10.1
+proj==7.2.1

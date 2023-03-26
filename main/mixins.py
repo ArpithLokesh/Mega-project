@@ -4,6 +4,7 @@ import json
 import os
 import time
 from . import on_route, plotting
+from .send_to_pi import send_to_pi
 
 '''
 Handles directions from Google
@@ -54,9 +55,14 @@ def Directions(*args, **kwargs):
 
         #on_route.on_route(directions)
         signals_list = on_route.get_signals_on_route(directions)
-        print(len(signals_list))
+        print(f"distance: {distance}, duration: {duration}, len(signals_list)")
 
         plotting.plot_on_map(signals_list)
+
+        pi_dict = {"distance": distance, "duration": duration}
+        pi_string = str(pi_dict)
+        send_to_pi(pi_string)
+        
 
     return {
         "origin": origin,
