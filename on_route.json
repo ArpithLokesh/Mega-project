@@ -1,0 +1,122 @@
+{
+    "destination_addresses": [
+        "Gen. Bipin Rawat Park Garden, WHC6+F7R, kittur rani chenamma circle, RK Layout 2nd Stage, Padmanabhanagar, Bengaluru, Karnataka 560070, India",
+        "South End Circle, WHPJ+M2P, Jaya Nagar 1st Block, Jayanagar, Bengaluru, Karnataka 560004, India",
+        "Asha Kiran Apartment, 39/3, Krishna Rajendra Rd, Tata Silk Farm, Basavanagudi, Bengaluru, Karnataka 560004, India",
+        "49, S, Kariappa Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
+        "Gen. Bipin Rawat Park Garden, WHC6+F7R, kittur rani chenamma circle, RK Layout 2nd Stage, Padmanabhanagar, Bengaluru, Karnataka 560070, India",
+        "South End Circle, WHPJ+M2P, Jaya Nagar 1st Block, Jayanagar, Bengaluru, Karnataka 560004, India",
+        "South End Circle, WHPJ+M2P, Jaya Nagar 1st Block, Jayanagar, Bengaluru, Karnataka 560004, India",
+        "49, S, Kariappa Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
+        "South End Circle, WHPJ+M2P, Jaya Nagar 1st Block, Jayanagar, Bengaluru, Karnataka 560004, India"
+    ],
+    "origin_addresses": [
+        "604, 17th Main Rd, Padmanabhanagar, Bengaluru, Karnataka 560070, India"
+    ],
+    "rows": [
+        {
+            "elements": [
+                {
+                    "distance": {
+                        "text": "0.7 km",
+                        "value": 740
+                    },
+                    "duration": {
+                        "text": "3 mins",
+                        "value": 168
+                    },
+                    "status": "OK"
+                },
+                {
+                    "distance": {
+                        "text": "4.2 km",
+                        "value": 4195
+                    },
+                    "duration": {
+                        "text": "15 mins",
+                        "value": 928
+                    },
+                    "status": "OK"
+                },
+                {
+                    "distance": {
+                        "text": "3.5 km",
+                        "value": 3529
+                    },
+                    "duration": {
+                        "text": "12 mins",
+                        "value": 729
+                    },
+                    "status": "OK"
+                },
+                {
+                    "distance": {
+                        "text": "3.8 km",
+                        "value": 3765
+                    },
+                    "duration": {
+                        "text": "13 mins",
+                        "value": 774
+                    },
+                    "status": "OK"
+                },
+                {
+                    "distance": {
+                        "text": "0.8 km",
+                        "value": 758
+                    },
+                    "duration": {
+                        "text": "4 mins",
+                        "value": 226
+                    },
+                    "status": "OK"
+                },
+                {
+                    "distance": {
+                        "text": "4.2 km",
+                        "value": 4229
+                    },
+                    "duration": {
+                        "text": "16 mins",
+                        "value": 939
+                    },
+                    "status": "OK"
+                },
+                {
+                    "distance": {
+                        "text": "4.2 km",
+                        "value": 4208
+                    },
+                    "duration": {
+                        "text": "15 mins",
+                        "value": 912
+                    },
+                    "status": "OK"
+                },
+                {
+                    "distance": {
+                        "text": "3.8 km",
+                        "value": 3755
+                    },
+                    "duration": {
+                        "text": "13 mins",
+                        "value": 771
+                    },
+                    "status": "OK"
+                },
+                {
+                    "distance": {
+                        "text": "4.2 km",
+                        "value": 4202
+                    },
+                    "duration": {
+                        "text": "16 mins",
+                        "value": 940
+                    },
+                    "status": "OK"
+                }
+            ]
+        }
+    ],
+    "status": "OK"
+}

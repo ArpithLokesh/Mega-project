@@ -1,11 +1,10 @@
 import geopandas as gpd
-from shapely.geometry import Point
-import folium
-import os
-import webbrowser
-import tempfile
+from geopy.distance import geodesic
+from shapely.geometry import Point, LineString
+import folium, os, webbrowser, tempfile
+from .dist_to_signal import distance_along_route
 
-def plot_on_map(location_list: list):
+def plot_on_map(poly, location_list: list):
 
     # # Create the GeoDataFrame
     gdf = gpd.GeoDataFrame(geometry=[Point(lat, lon) for lon, lat, ip in location_list])
@@ -19,7 +18,9 @@ def plot_on_map(location_list: list):
     # Add the LineString and Point geometries to the map
     folium.GeoJson(gdf.geometry).add_to(map)
     for lat, lon, ip in location_list:
-        folium.Marker(location=[lat, lon]).add_to(map)
+        tag = f"{distance_along_route(poly, (lat, lon)):.2f} kms"
+        folium.Marker(location=[lat, lon], popup=tag).add_to(map)
+
 
     # Display the map
     tempdir = tempfile.mkdtemp()

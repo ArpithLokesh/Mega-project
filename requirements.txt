@@ -12,3 +12,5 @@ folium
 geopandas
 matplotlib
 psycopg2-binary
+pika
+polyline

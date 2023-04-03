@@ -52,11 +52,17 @@ def Directions(*args, **kwargs):
         with open(filepath, 'w') as f:
             json.dump(directions, f)
 
-        #on_route.on_route(directions)
         signals_list = on_route.get_signals_on_route(directions)
-        print(len(signals_list))
+        
+        poly = directions["routes"][0]["overview_polyline"]["points"]
+        print(f"distance: {distance}, duration: {duration}, {signals_list}, {poly}")
 
-        plotting.plot_on_map(signals_list)
+        plotting.plot_on_map(poly, signals_list)
+
+        pi_dict = {"distance": distance, "duration": duration}
+        pi_string = str(pi_dict)
+        #send_to_pi(pi_string)
+        
 
     return {
         "origin": origin,
