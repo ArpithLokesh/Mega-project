@@ -13,4 +13,10 @@ geopandas
 matplotlib
 psycopg2-binary
 pika
+<<<<<<< HEAD
 polyline
+=======
+GDAL==3.4.0
+geos==3.10.1
+proj==7.2.1
+>>>>>>> b274fab0c1979c959d5d2b7441df42de35e802ce

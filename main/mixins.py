@@ -4,6 +4,7 @@ import json
 import os
 import time
 from . import on_route, plotting
+from .send_to_pi import send_to_pi
 
 '''
 Handles directions from Google
@@ -53,15 +54,24 @@ def Directions(*args, **kwargs):
             json.dump(directions, f)
 
         signals_list = on_route.get_signals_on_route(directions)
+<<<<<<< HEAD
         
         poly = directions["routes"][0]["overview_polyline"]["points"]
         print(f"distance: {distance}, duration: {duration}, {signals_list}, {poly}")
+=======
+        print(f"distance: {distance}, duration: {duration}, len(signals_list)")
+>>>>>>> b274fab0c1979c959d5d2b7441df42de35e802ce
 
         plotting.plot_on_map(poly, signals_list)
 
         pi_dict = {"distance": distance, "duration": duration}
         pi_string = str(pi_dict)
         #send_to_pi(pi_string)
+        
+
+        pi_dict = {"distance": distance, "duration": duration}
+        pi_string = str(pi_dict)
+        send_to_pi(pi_string)
         
 
     return {
